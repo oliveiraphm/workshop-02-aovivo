@@ -6,4 +6,6 @@ theme:
 plugins:
   - search
   - mermaid2
-  - mkdocstring
+  - mkdocstrings
+
+  
