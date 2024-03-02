@@ -53,3 +53,8 @@ doc = "mkdocs serve"
 ##CI/CD
 criar a pasta .github/workflows
 criar um arquivo .yml (CI.yml)
+
+# how to install PostgreSQL (psycopg2)
+sudo ap-get update
+sudo apt-get install libpq-dev python-dev-is-python3
+poetry add psycopg2
